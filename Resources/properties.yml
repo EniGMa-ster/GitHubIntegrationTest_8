@@ -1,0 +1,7 @@
+# Please provide your Salesforce information, to proceed with the test execution.
+URL: https://salesforce.example.com
+username: username
+password: password
+client_id: client_id
+client_password: client_password
+grant_type: password

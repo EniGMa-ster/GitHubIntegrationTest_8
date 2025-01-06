@@ -1,0 +1,30 @@
+Enter your JIRA Credentials
+
+"JIRA":{
+    "Username": "jira_user",
+    "Password": "jira_pass",
+    "Url": "https://jira.example.com"
+}
+
+
+Notification Service Credentials
+
+"Slack":{
+   "SLACK_WEBHOOK_URL": "https://slack.webhook.url", 
+   "SLACK_TOKEN": "slack_token", 
+   "SLACK_CHANNEL_ID": "channel_id" 
+}
+
+"Webex":{
+   "WEBEX_BOT_ACCESS_TOKEN": "token", 
+   "WEBEX_ROOM_ID": "room_id"
+}
+
+"Email":{
+   "EMAIL_ID": "email@example.com" 
+}
+
+"Teams":{
+   "TEAMS_WEBHOOK_URL": "https://teams.webhook.url" 
+}
+
